@@ -1,1 +1,1 @@
-# DSE-220
+# DSE-220 Machine Learning
